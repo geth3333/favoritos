@@ -1,0 +1,3 @@
+Index.js es el primer archivo que se ejecuta en nodejs, es lo que arranca el proyecto.
+Index contiene el servidor Expresss y solo funge como servidor
+La carpeta routes contiene los archivos que definen como tiene que ser la ruta para cada caso y cada archivo hace unallamada al controlador con las funciones de cada rutas
